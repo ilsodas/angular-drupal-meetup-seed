@@ -47,6 +47,7 @@ Introduction SASS by Lancelot Nyachoto (http://sass-lang.com/)
 
 ##3 July 2013
 - AngularJS by Dinesh Copoosamy - [code] (https://github.com/dineshcooper/angular-talk)
+- Rest and Serialization in Drupal 8 by Musa (http://bit.ly/15k13hl)
 
 ##7 August 2013
 
